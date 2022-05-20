@@ -1,0 +1,13 @@
+h1,h2,h3{
+    font-family: 'Bitter', serif;
+}
+
+
+#home {
+    background: url("../img/pear-blossoms-pear-tree-spring-blossom-163780.jpeg") no-repeat center fixed;
+    display: table;
+    height: 100%;
+    position: relative;
+    width: 100%;
+    background-size: cover;
+}
