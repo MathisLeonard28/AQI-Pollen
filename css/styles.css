@@ -2,12 +2,19 @@ h1,h2,h3{
     font-family: 'Bitter', serif;
 }
 
-
 #home {
-    background: url("../img/pear-blossoms-pear-tree-spring-blossom-163780.jpeg") no-repeat center fixed;
+    background: url("../img/blurred-white-clouds-floating-in-the-blue-sky-for-use-as-a-banner-poster-or-wallpaper-free-photo.jpeg") no-repeat center fixed;
     display: table;
     height: 100%;
+    width: 100%;
     position: relative;
     width: 100%;
     background-size: cover;
+}
+
+.landing-text {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    align-items: center;
 }
