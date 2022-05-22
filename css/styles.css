@@ -25,7 +25,9 @@ h1,h2,h3{
 }
 
 .navbar {
-    background-image: linear-gradient(to right, #2f2c3f, #283477, #5791a3);
+    /* background-image: linear-gradient(to right, #2f2c3f, #283477, #5791a3); */
+    /* background-color: rgb(68, 77, 95); */
+    background-image: linear-gradient(to top, rgb(45, 49, 61), rgb(68, 83, 83));
     height: 3rem;
 }
 
@@ -42,9 +44,9 @@ h1,h2,h3{
 .card {
     flex-direction: row;
     align-items: center;
-    margin: 5rem;
+    margin: 6.2rem;
     background-color: rgba(0, 0, 0, 0.137);
   }
   .card img {
-    width: 30%;
+    width: 40%;
   }
